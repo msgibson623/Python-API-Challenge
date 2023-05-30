@@ -1,10 +1,10 @@
 # What's the Weather Like?
 
-## Background
+## Background/Introduction
 
-Whether financial, political, or social&mdash;data's true power rests in its ability to answer questions definitively. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+Whether financial, political, or social&mdash;data's true power rests in its ability to answer questions definitively. So, I'm using Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
-Now, we know what you may be thinking: _"Duh. It gets hotter ..."_
+Now, I know what you may be thinking: _"Duh. It gets hotter ..."_
 
 But, if pressed, how would you **prove** it?
 
@@ -51,7 +51,7 @@ On GitHub, the only new file you should find is the `WeatherPy.ipynb` file.
 
 ## Part 1: WeatherPy
 
-In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and your problem-solving skills to create a representative model of weather across cities.
+In this section, I'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and your problem-solving skills to create a representative model of weather across cities.
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
